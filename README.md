@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-Analyzed crowdfunding data in Excel to evaluate campaign success trends and generate KPI-based insights.
+# kickstarter-Crowdfunding-Analysis (Intractive Dashboard creation using MS Excel)
+## Project Objectives
+To analyze crowdfunding data and identify success trends using Excel-based data analysis and visualization techniques
